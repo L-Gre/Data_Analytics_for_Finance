@@ -14,8 +14,8 @@ This repository contains the course materials for the **Data Analytics for Finan
 - Practical implementation of statistical methods
 - Application to real-world datasets
 
-### 3. Visualization
-- Creating clear and effective data visualizations
+### 3. Visualisation
+- Creating clear and effective data visualisations
 - Tools: `matplotlib`, `seaborn`, and Tableau
 - Emphasis on storytelling with data
 
