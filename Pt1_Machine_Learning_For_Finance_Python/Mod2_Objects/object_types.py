@@ -53,6 +53,48 @@ print(tech_portfolio)
 tech_portfolio.remove('AMZN')
 print(tech_portfolio)
 
+# Exercise
+
+'''
+1. Create and print a list called financials containing the following strings:
+• JPM, BAC, WFC, Citi, AXP
+2. Change 'Citi' to 'C' and print the new list
+3. Remove 'AXP', append 'PNC', and print the new list
+4. Check membership for 'BLK' and print the result
+5. Print the length of financials
+'''
+
+financials = ['JPM', 'BAC', 'WFC', 'Citi', 'AXP']
+
+financials[3] = 'C'
+print(financials)
+
+financials.remove('AXP')
+financials.append('PNC')
+print(financials)
+
+print('BLK' in financials)
+len(financials)
+
 # tuples
+
+list_1 = [1, 2, 3, 4, 5]
+tuple_1 = (1, 2, 3, 4, 5)
+
 # sets
+
+list_1 = ['a', 'a', 'b', 'b', 'c', 'c']
+set_1 = {'a', 'a', 'b', 'b', 'c', 'c'}
+
+print(list_1)
+print(set_1)
+
+list_1 = ['IT', 'Consumer', 'IT', 'IT', 'Financials']
+set_1 = {'IT', 'Consumer', 'IT', 'IT', 'Financials'}
+
+print(list_1)
+print(set_1)
+
+set(list_1)
+
 # dictionaries
