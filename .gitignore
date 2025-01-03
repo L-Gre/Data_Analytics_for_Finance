@@ -1,0 +1,5 @@
+# Ignore sensitive config
+.env
+
+# Ignore virtual environment
+.venv/
