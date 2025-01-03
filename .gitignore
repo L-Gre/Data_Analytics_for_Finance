@@ -3,3 +3,9 @@
 
 # Ignore virtual environment
 .venv/
+
+# Ignore vscode configurations
+.vscode/
+
+# Ignore local project documentation
+docs/
