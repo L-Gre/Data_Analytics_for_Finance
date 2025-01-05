@@ -9,3 +9,6 @@
 
 # Ignore local project documentation
 docs/
+
+# Ignore scripts
+scripts/
