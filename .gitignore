@@ -12,3 +12,9 @@ docs/
 
 # Ignore scripts
 scripts/
+
+# data backups
+*.pkl
+
+# pycache
+__pycache__/
